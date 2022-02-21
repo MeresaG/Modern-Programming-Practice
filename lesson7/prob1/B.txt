@@ -1,0 +1,3 @@
+The equals method in Employee class has been overridden incorrectly. While lists are Equal
+methods check the solution, it uses the implementation of equal in the Object class, which gives
+incorrect results here.

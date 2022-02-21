@@ -1,0 +1,9 @@
+A)
+	- The ArrayList extends AbstractList class.
+	- The ArrayList class implements the following:
+			- Serializable, 
+			- Cloneable, 
+			- Iterable<E>, 
+			- Collection<E>, 
+			- List<E>, 
+			- RandomAccess

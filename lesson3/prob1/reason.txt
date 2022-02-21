@@ -1,0 +1,3 @@
+This is called the instanceof strategy for overriding equals.
+This has happened(different results) due to the asymmetry of the equal method of 
+the object class.

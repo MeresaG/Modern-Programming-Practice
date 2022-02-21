@@ -1,0 +1,4 @@
+It doesn't make any sense to use inheritance in the Cylinder and Circle objects.
+Because we are using the inheritance for the sake of code reuse but
+a circle is not a cylinder and this violates the IS-a relationship.
+we can't also use the circle object in run time and this violates the LSP relationship

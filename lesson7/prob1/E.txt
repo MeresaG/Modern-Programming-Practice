@@ -1,0 +1,18 @@
+i)
+- If the method stayed abstract or not implemented by both B and C then D would just
+	override the method as required. Then D have to override the method() no matter the
+	implementation from interfaces B and C.
+- If there was a default implementation in either B or C then D would not have to
+	implement the method unless required.
+- If both B and C implemented their own implementation of the method, then D would
+	have to implement its own implementation as well.
+
+
+ii)
+- If the method() was not implemented in both B and C. The D would not require doing
+	any thing because it would still be abstract in D
+- If the method () was implemented as default in either B or C. The D would not require
+doing anything because it would still have a default implementation
+
+- If the method () was implemented in both B and C as default then D need to
+	implement its default methods or Interface D should put the method as an abstract method.

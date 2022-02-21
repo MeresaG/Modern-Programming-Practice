@@ -1,0 +1,15 @@
+1ai)
+- there is no parameter.
+- s and t are free variables
+
+1aii)
+- s and t are parameters,
+- ignoreCase is free variables
+
+1bi)
+- Supplier<Double> f = () -> Math.random();
+
+1bii)
+- 
+
+	

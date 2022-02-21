@@ -1,0 +1,8 @@
+1A) Class::instanceMethod
+1B) Class::instanceMethod
+1C) Class::instanceMethod
+1D) Class::staticMethod
+1E) Class::instanceMethod
+1F) Class::instanceMethod
+1G) instance::instanceMethod
+ 
